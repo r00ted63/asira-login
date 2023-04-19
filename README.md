@@ -1,2 +1,10 @@
-# asira-source
-Public Source code of the Asira News App
+# The Asira Project
+
+**Asira is a state of the art, tech news app**
+Taking a new fundemental approach to the new area of the news industry. Asira is focused at delivering you the best, state of the art tech news; straight from your iPhone.
+
+- [LANG] **Swift**
+- [IDE] **XCode**
+
+Asira News is property of the Asira Project under, Mason Hood. 
+Protected under U.S. Federal Law.
