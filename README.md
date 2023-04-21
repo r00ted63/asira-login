@@ -1,7 +1,7 @@
 # The Asira Project
 
-**Asira is a state of the art, tech news app**
-Taking a new fundemental approach to the new area of the news industry. Asira is focused at delivering you the best, state of the art tech news; straight from your iPhone.
+**UI LOGIN Base**
+SwiftUI Login Base for Asira App.
 
 
 - [STATUS] **Under Development**
@@ -9,5 +9,5 @@ Taking a new fundemental approach to the new area of the news industry. Asira is
 - [IDE] **XCode**
 - [APPSTORE] **No**
 
-Asira News is property of the Asira Project under, Mason Hood. 
+The Asira Project under, Mason Hood. 
 Protected under U.S. Federal Law.
